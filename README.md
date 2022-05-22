@@ -17,5 +17,8 @@ Select any collections you want to calculate Decentralization & Market Activity 
 
 ## Installation
 
+Create a `.env` file with the following key: `REACT_APP_COVALENT_KEY` and append your Covalent API Key
+
 `npm install --force`
+
 `npm start`
